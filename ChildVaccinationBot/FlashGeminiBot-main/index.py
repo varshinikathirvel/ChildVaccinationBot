@@ -3,7 +3,7 @@ from Model import FlashModel
 
 import time
 # Title and chatbot description
-st.title("🤖 Flash Assistant")
+st.title("🤖 Assistant")
 st.markdown("Im here to help you. Feel free to ask anything!")
 
 # CSS for styling chat bubbles with right and left alignment and fitted borders
