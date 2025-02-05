@@ -23,7 +23,7 @@ class FlashModel:
         
     def predict(self , query):
         template = f"""
-                  Model Name: Luna
+                  Model Name: Lara
                   Specialization: Child Vaccination Q&A
                   
                   User Query: {query}
